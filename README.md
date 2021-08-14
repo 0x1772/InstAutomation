@@ -16,9 +16,9 @@ _____________________
 _____________________
 ### Installation
 
-* ** sudo apt install python
-* ** sudo apt install python-pip
-* ** pip install -r requirements.txt
+*  sudo apt install python
+*  sudo apt install python-pip
+*  pip install -r requirements.txt
 
 ### DON'T FORGET DOWNLOAD GECKODRIVER
 _____________________
