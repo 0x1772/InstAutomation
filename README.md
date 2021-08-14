@@ -1,4 +1,4 @@
-### OpenToNord
+### InstAutomation
 ____________________
 🔸I made this for save the time. Instagram automation script can do a lot process 
 
